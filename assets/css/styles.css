@@ -1,0 +1,21 @@
+.backgoundColorNav {
+    background-color: #daac00;
+    color: white;
+}
+
+.textNav {
+    color: white !important;
+    font-size: 25px;
+}
+
+.nav-item {
+    padding: 0px 10px;
+}
+
+.navbar {
+    padding: 20px 100px;
+}
+
+.divLogo {
+   padding-right: 20px;
+}
